@@ -1,0 +1,65 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "hi"
+            },
+            "messages": {
+                "Play"                  : "खेलें", 
+                                
+                "SETTINGS"              : "सेटिंग्स",
+                "LANGUAGE"              : "भाषा",
+                "MINIGAME"              : "फ्री मिनी गेम खेलें अभी!",
+                
+                "ACHIEVEMENTS"          : "अचीवमेंट्स", 
+                "SELECT_ATHLETE"        : "एथलिट चुनें", 
+                "LEADERBOARDS"          : "लीडरबोर्ड्स", 
+                "Player"                : "प्लेयर", 
+                "Play_on_Facebook"      : "Facebook पर अपने दोस्तों के साथ खेलें!", 
+                "SPEED"                 : "स्पीड", 
+                "PLAY_MORE_EVENTS"      : "और ज़्यादा ईवेंट्स खेलें!", 
+                "READY"                 : "तैयार हो जाएं", 
+                "FINISH"                : "फिनिश", 
+                "You"                   : "आप खुद", 
+                "Music"                 : "संगीत", 
+                "Sound_FX"              : "साउंड FX", 
+                "Reset_your_Progress"   : "अपनी प्रोग्रेस रीसेट करें", 
+                "Reset_Question"        : "अपनी प्रोग्रेस रीसेट करें?", 
+                "Reset"                 : "रीसेट करें", 
+                "Get_mobile"            : "पाएं पूरा मोबाइल वर्ज़न", 
+                "Back"                  : "वापस जाएं", 
+                "Retry"                 : "रीट्राई करें", 
+                "Achievement_1"         : "सोनिक बनकर 1 रेस में खेलें", 
+                "Achievement_2"         : "एमी बनकर 1 रेस में खेलें", 
+                "Achievement_3"         : "5 लैप पूरे करें", 
+                "Achievement_4"         : "25 रिंग इकट्ठी करें", 
+                "Achievement_5"         : "25 हर्डल को जम्प करें", 
+                "Achievement_6"         : "50 रिंग इकट्ठी करें", 
+                "Achievement_7"         : "50 लैप पूरे करें", 
+                "Achievement_8"         : "50 हर्डल को जम्प करें", 
+                "Achievement_9"         : "150 रिंग इकट्ठी करें", 
+                "Achievement_10"        : "150 हर्डल को जम्प करें", 
+                "Achievement_11"        : "500 रिंग इकट्ठी करें", 
+                "Achievement_12"        : "250 लैप पूरे करें", 
+                "Achievement_13"        : "250 हर्डल को जम्प करें", 
+                "Achievement_14"        : "1 रेस में 10 लैप दौड़ें", 
+                "Achievement_15"        : "500 हर्डल को जम्प करें", 
+                "Achievement_16"        : "1 रेस में 25 लैप दौड़ें", 
+                "Achievement_17"        : "1500 हर्डल को जम्प करें", 
+                "Achievement_18"        : "500 लैप पूरे करें", 
+                "Achievement_19"        : "5000 रिंग इकट्ठी करें", 
+                "Achievement_20"        : "25,000 रिंग इकट्ठी करें", 
+                "Achievement_21"        : "1 रेस में 50 लैप दौड़ें", 
+                "Achievement_22"        : "3000 हर्डल को जम्प करें", 
+                "Achievement_23"        : "5000 लैप पूरे करें", 
+                "Achievement_24"        : "सभी बैज जीतें", 
+                "Discover_more"         : "इस पर खेलने के लिए और ज़्यादा गेम्स ढूंढें: olympicvideogames.com",
+                "BelowVideo"            : "मज़ा लें सभी नए इवेंट्स, मिनी गेम्स और भी काफी कुछ का! ओलिंपिक गेम्स टोक्यो 2020 में अभी डाउनलोड करें Sonic!"   
+            }
+        }
+    ]
+}
+ 

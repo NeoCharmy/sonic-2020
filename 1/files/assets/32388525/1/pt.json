@@ -1,0 +1,70 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "pt"
+            },
+            "messages": {
+                "Play"                  : "Jogar", 
+                                
+                "SETTINGS"              : "Configurações",
+                "LANGUAGE"              : "Idioma",
+                "MINIGAME"              : "Jogue agora este minijogo grátis!",
+                
+                "ACHIEVEMENTS"          : "CONQUISTAS", 
+                "SELECT_ATHLETE"        : "SELECIONAR ATLETA", 
+                "LEADERBOARDS"          : "CLASSIFICAÇÕES", 
+                "Player"                : "Jogador", 
+                "Play_on_Facebook"      : "Jogue com seus amigos no Facebook!", 
+                "SPEED"                 : "VELOCIDADE", 
+                "PLAY_MORE_EVENTS"      : "PARTICIPE DE MAIS PROVAS!", 
+                "READY"                 : "PREPARAR", 
+                "FINISH"                : "TERMINOU", 
+                "You"                   : "Você", 
+                "Music"                 : "Música", 
+                "Sound_FX"              : "Efeitos sonoros", 
+                "Reset_your_Progress"   : "Reiniciar seu progresso", 
+                "Reset_Question"        : "Reiniciar seu progresso?", 
+                "Reset"                 : "Reiniciar", 
+                "Get_mobile"            : "Obtenha a versão completa para dispositivos móveis", 
+                "Back"                  : "Voltar", 
+                "Retry"                 : "Repetir", 
+                "Achievement_1"         : "Jogue 1 corrida como Sonic", 
+                "Achievement_2"         : "Jogue 1 corrida como Amy", 
+                "Achievement_3"         : "Complete 5 voltas", 
+                "Achievement_4"         : "Colecione 25 argolas", 
+                "Achievement_5"         : "Salte 25 obstáculos", 
+                "Achievement_6"         : "Colecione 50 argolas", 
+                "Achievement_7"         : "Complete 50 voltas", 
+                "Achievement_8"         : "Salte 50 obstáculos", 
+                "Achievement_9"         : "Colecione 150 argolas", 
+                "Achievement_10"        : "Salte 150 obstáculos", 
+                "Achievement_11"        : "Colecione 500 argolas", 
+                "Achievement_12"        : "Complete 250 voltas", 
+                "Achievement_13"        : "Salte 250 obstáculos", 
+                "Achievement_14"        : "Dê 10 voltas em 1 corrida", 
+                "Achievement_15"        : "Salte 500 obstáculos", 
+                "Achievement_16"        : "Dê 25 voltas em 1 corrida", 
+                "Achievement_17"        : "Salte 1.500 obstáculos", 
+                "Achievement_18"        : "Complete 500 voltas", 
+                "Achievement_19"        : "Colecione 5.000 argolas", 
+                "Achievement_20"        : "Colecione 25.000 argolas", 
+                "Achievement_21"        : "Dê 50 voltas em 1 corrida", 
+                "Achievement_22"        : "Salte 3.000 obstáculos", 
+                "Achievement_23"        : "Complete 5.000 voltas", 
+                "Achievement_24"        : "Ganhe todas as insígnias", 
+                "Discover_more"         : "Descubra mais jogos em: olympicvideogames.com",
+                "BelowVideo"            : "Aproveite NOVÍSSIMOS eventos, minijogos & muito mais! Baixe agora mesmo Sonic nos Jogos Olímpicos de Tóquio 2020!"   
+            }
+        }
+    ]
+}
+ 
+ 
+
+
+
+
