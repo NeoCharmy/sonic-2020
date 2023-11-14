@@ -1,0 +1,65 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "zh"
+            },
+            "messages": {
+                "Play"                  : "開始玩", 
+                                
+                "SETTINGS"              : "設定",
+                "LANGUAGE"              : "語言",
+                "MINIGAME"              : "馬上遊玩免費小遊戲！",
+                
+                "ACHIEVEMENTS"          : "成就", 
+                "SELECT_ATHLETE"        : "選擇選手", 
+                "LEADERBOARDS"          : "排行榜", 
+                "Player"                : "玩家", 
+                "Play_on_Facebook"      : "與 Facebook 好友一起同樂！", 
+                "SPEED"                 : "速度", 
+                "PLAY_MORE_EVENTS"      : "參與更多活動！", 
+                "READY"                 : "準備", 
+                "FINISH"                : "終點", 
+                "You"                   : "你", 
+                "Music"                 : "音樂", 
+                "Sound_FX"              : "音效", 
+                "Reset_your_Progress"   : "重置你的進度", 
+                "Reset_Question"        : "重置你的進度？", 
+                "Reset"                 : "重置", 
+                "Get_mobile"            : "取得行動裝置完整版", 
+                "Back"                  : "返回", 
+                "Retry"                 : "重試", 
+                "Achievement_1"         : "用音速小子進行 1 場比賽", 
+                "Achievement_2"         : "用艾咪進行 1 場比賽", 
+                "Achievement_3"         : "完成 5 圈", 
+                "Achievement_4"         : "收集 25 個金環", 
+                "Achievement_5"         : "跳躍 25 個跨欄", 
+                "Achievement_6"         : "收集 50 個金環", 
+                "Achievement_7"         : "完成 50 圈", 
+                "Achievement_8"         : "跳躍 50 個跨欄", 
+                "Achievement_9"         : "收集 150 個金環", 
+                "Achievement_10"        : "跳躍 150 個跨欄", 
+                "Achievement_11"        : "收集 500 個金環", 
+                "Achievement_12"        : "完成 250 圈", 
+                "Achievement_13"        : "跳躍 250 個跨欄", 
+                "Achievement_14"        : "在 1 場比賽中完成 10 圈", 
+                "Achievement_15"        : "跳躍 500 個跨欄", 
+                "Achievement_16"        : "在 1 場比賽中完成 25 圈", 
+                "Achievement_17"        : "跳躍 1500 個跨欄", 
+                "Achievement_18"        : "完成 500 圈", 
+                "Achievement_19"        : "收集 5000 個金環", 
+                "Achievement_20"        : "收集 25,000 個金環", 
+                "Achievement_21"        : "在 1 場比賽中完成 50 圈", 
+                "Achievement_22"        : "跳躍 3000 個跨欄", 
+                "Achievement_23"        : "完成 5000 圈", 
+                "Achievement_24"        : "獲得所有徽章", 
+                "Discover_more"         : "探索更多精彩遊戲：\nolympicvideogames.com",
+                "BelowVideo"            : "享受全新活動、小遊戲和更多精彩內容！馬上到 2020 東京奧林匹克運動會下載《音速小子》！"   
+            }
+        }
+    ]
+}
+  
