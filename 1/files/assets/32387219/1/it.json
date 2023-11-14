@@ -1,0 +1,67 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "it"
+            },
+            "messages": {
+                "Play"                  : "Gioca", 
+                                
+                "SETTINGS"              : "Impostazioni",
+                "LANGUAGE"              : "Lingua",
+                "MINIGAME"              : "Prova subito il minigioco gratuito!",
+                
+                "ACHIEVEMENTS"          : "OBIETTIVI", 
+                "SELECT_ATHLETE"        : "SELEZIONA ATLETA", 
+                "LEADERBOARDS"          : "CLASSIFICA", 
+                "Player"                : "Giocatore", 
+                "Play_on_Facebook"      : "Gioca con gli amici su Facebook!", 
+                "SPEED"                 : "VELOCITÀ", 
+                "PLAY_MORE_EVENTS"      : "GIOCA ALTRI EVENTI!", 
+                "READY"                 : "PREPARATI", 
+                "FINISH"                : "FINE", 
+                "You"                   : "Tu", 
+                "Music"                 : "Musica", 
+                "Sound_FX"              : "Effetti", 
+                "Reset_your_Progress"   : "Azzera i progressi", 
+                "Reset_Question"        : "Vuoi azzerare i progressi?", 
+                "Reset"                 : "Azzera", 
+                "Get_mobile"            : "Ottieni la versione mobile completa", 
+                "Back"                  : "Indietro", 
+                "Retry"                 : "Riprova", 
+                "Achievement_1"         : "Gioca 1 corsa come Sonic", 
+                "Achievement_2"         : "Gioca 1 corsa come Amy", 
+                "Achievement_3"         : "Completa 5 giri", 
+                "Achievement_4"         : "Raccogli 25 anelli", 
+                "Achievement_5"         : "Salta 25 ostacoli", 
+                "Achievement_6"         : "Raccogli 50 anelli", 
+                "Achievement_7"         : "Completa 50 giri", 
+                "Achievement_8"         : "Salta 50 ostacoli", 
+                "Achievement_9"         : "Raccogli 150 anelli", 
+                "Achievement_10"        : "Salta 150 ostacoli", 
+                "Achievement_11"        : "Raccogli 500 anelli", 
+                "Achievement_12"        : "Completa 250 giri", 
+                "Achievement_13"        : "Salta 250 ostacoli", 
+                "Achievement_14"        : "Completa 10 giri in 1 corsa", 
+                "Achievement_15"        : "Salta 500 ostacoli", 
+                "Achievement_16"        : "Completa 25 giri in 1 corsa", 
+                "Achievement_17"        : "Salta 1500 ostacoli", 
+                "Achievement_18"        : "Completa 500 giri", 
+                "Achievement_19"        : "Raccogli 5000 anelli", 
+                "Achievement_20"        : "Raccogli 25.000 anelli", 
+                "Achievement_21"        : "Completa 50 giri in 1 corsa", 
+                "Achievement_22"        : "Salta 3000 ostacoli", 
+                "Achievement_23"        : "Completa 5000 giri", 
+                "Achievement_24"        : "Vinci tutti i distintivi", 
+                "Discover_more"         : "Scopri altri giochi qui: olympicvideogames.com",
+                "BelowVideo"            : "Goditi NUOVISSIMI eventi, minigiochi e tanto altro ancora! Scarica subito Sonic ai Giochi Olimpici di Tokyo 2020!"   
+            }
+        }
+    ]
+}
+ 
+
+

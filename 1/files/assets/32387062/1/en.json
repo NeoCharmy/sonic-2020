@@ -1,0 +1,64 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "en"
+            },
+            "messages": {
+                "Play"                  : "Play", 
+                                
+                "SETTINGS"              : "SETTINGS",
+                "LANGUAGE"              : "LANGUAGE",
+                "MINIGAME"              : "Play the free minigame now!",
+                
+                "ACHIEVEMENTS"          : "ACHIEVEMENTS", 
+                "SELECT_ATHLETE"        : "SELECT ATHLETE", 
+                "LEADERBOARDS"          : "LEADERBOARDS", 
+                "Player"                : "Player", 
+                "Play_on_Facebook"      : "Play with your friends on Facebook!", 
+                "SPEED"                 : "SPEED", 
+                "PLAY_MORE_EVENTS"      : "PLAY MORE EVENTS!", 
+                "READY"                 : "READY", 
+                "FINISH"                : "FINISH", 
+                "You"                   : "You", 
+                "Music"                 : "Music", 
+                "Sound_FX"              : "Sound FX", 
+                "Reset_your_Progress"   : "Reset your progress", 
+                "Reset_Question"        : "Reset your progress?", 
+                "Reset"                 : "Reset", 
+                "Get_mobile"            : "Get the full mobile version", 
+                "Back"                  : "Back", 
+                "Retry"                 : "Retry", 
+                "Achievement_1"         : "Play 1 Race as Sonic", 
+                "Achievement_2"         : "Play 1 Race as Amy", 
+                "Achievement_3"         : "Complete 5 laps", 
+                "Achievement_4"         : "Collect 25 Rings", 
+                "Achievement_5"         : "Jump 25 Hurdles", 
+                "Achievement_6"         : "Collect 50 Rings", 
+                "Achievement_7"         : "Complete 50 laps", 
+                "Achievement_8"         : "Jump 50 Hurdles", 
+                "Achievement_9"         : "Collect 150 Rings", 
+                "Achievement_10"        : "Jump 150 Hurdles", 
+                "Achievement_11"        : "Collect 500 Rings", 
+                "Achievement_12"        : "Complete 250 laps", 
+                "Achievement_13"        : "Jump 250 Hurdles", 
+                "Achievement_14"        : "Run 10 laps in 1 race", 
+                "Achievement_15"        : "Jump 500 Hurdles", 
+                "Achievement_16"        : "Run 25 laps in 1 race", 
+                "Achievement_17"        : "Jump 1500 Hurdles", 
+                "Achievement_18"        : "Complete 500 laps", 
+                "Achievement_19"        : "Collect 5000 Rings", 
+                "Achievement_20"        : "Collect 25,000 Rings", 
+                "Achievement_21"        : "Run 50 laps in 1 race", 
+                "Achievement_22"        : "Jump 3000 Hurdles", 
+                "Achievement_23"        : "Complete 5000 laps", 
+                "Achievement_24"        : "Win All Badges", 
+                "Discover_more"         : "Discover more games to play at: olympicvideogames.com",
+                "BelowVideo"            : "Enjoy ALL-NEW events, minigames & much more! Download Sonic at the Olympic Games Tokyo 2020 now!"   
+            }
+        }
+    ]
+}
