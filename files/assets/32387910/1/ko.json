@@ -1,0 +1,71 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "ko"
+            },
+            "messages": {
+                "Play"                  : "플레이", 
+                                
+                "SETTINGS"              : "설정",
+                "LANGUAGE"              : "언어",
+                "MINIGAME"              : "지금 무료 미니게임 플레이!",
+                
+                "ACHIEVEMENTS"          : "업적", 
+                "SELECT_ATHLETE"        : "선수 선택", 
+                "LEADERBOARDS"          : "순위표", 
+                "Player"                : "플레이어", 
+                "Play_on_Facebook"      : "Facebook에서 친구들과 플레이!", 
+                "SPEED"                 : "속도", 
+                "PLAY_MORE_EVENTS"      : "더 많은 이벤트를 플레이하세요!", 
+                "READY"                 : "준비", 
+                "FINISH"                : "종료", 
+                "You"                   : "나", 
+                "Music"                 : "음악", 
+                "Sound_FX"              : "효과음", 
+                "Reset_your_Progress"   : "진행 초기화", 
+                "Reset_Question"        : "진행 상황을 초기화할까요?", 
+                "Reset"                 : "초기화", 
+                "Get_mobile"            : "전체 모바일 버전 받기", 
+                "Back"                  : "뒤로", 
+                "Retry"                 : "재시도", 
+                "Achievement_1"         : "소닉으로 레이스 1회 플레이", 
+                "Achievement_2"         : "에이미로 레이스 1회 플레이", 
+                "Achievement_3"         : "5바퀴 완주", 
+                "Achievement_4"         : "링 25개 모으기", 
+                "Achievement_5"         : "허들 25개 뛰어넘기", 
+                "Achievement_6"         : "링 50개 모으기", 
+                "Achievement_7"         : "50바퀴 완주", 
+                "Achievement_8"         : "허들 50개 뛰어넘기", 
+                "Achievement_9"         : "링 150개 모으기", 
+                "Achievement_10"        : "허들 150개 뛰어넘기", 
+                "Achievement_11"        : "링 500개 모으기", 
+                "Achievement_12"        : "250바퀴 완주", 
+                "Achievement_13"        : "허들 250개 뛰어넘기", 
+                "Achievement_14"        : "한 레이스에서 10바퀴 달리기", 
+                "Achievement_15"        : "허들 500개 뛰어넘기", 
+                "Achievement_16"        : "한 레이스에서 25바퀴 달리기", 
+                "Achievement_17"        : "허들 1500개 뛰어넘기", 
+                "Achievement_18"        : "500바퀴 완주", 
+                "Achievement_19"        : "링 5000개 모으기", 
+                "Achievement_20"        : "링 25,000개 모으기", 
+                "Achievement_21"        : "한 레이스에서 50바퀴 달리기", 
+                "Achievement_22"        : "허들 3000개 뛰어넘기", 
+                "Achievement_23"        : "5000바퀴 완주", 
+                "Achievement_24"        : "모든 배지 모으기", 
+                "Discover_more"         : "더 많은 게임을 찾아보세요: olympicvideogames.com",
+                "BelowVideo"            : "새로운 이벤트와 미니게임 등을 즐기세요! 지금 Sonic at the Olympic Games Tokyo 2020을 다운로드하세요!"   
+            }
+        }
+    ]
+}
+ 
+
+
+
+
+
+
