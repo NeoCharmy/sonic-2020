@@ -1,0 +1,173 @@
+{
+    "FACEBOOK":{ 
+        "appId"          : 0
+    },
+        
+    "DISABLE_COMMARIZE" : true,
+        
+    "PLAYERS":{
+        
+        "ME_DEBUG" : { "userID" : "userid011", "userName": "username011", "userPhoto":"https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=2256849171091124&height=256&width=256&ext=1579297531&hash=AeQli1ZUnFRRxfro" }, 
+        
+        "ME_GARY" : { "userID" : "2509379145783115", "userName": "Garibaldy", "userPhoto":"https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=2509379145783115&height=256&width=256&ext=1580176267&hash=AeQyixEfryla8fQ0" }, 
+  
+        "ME" : { "userID" : "2256849171091124", "userName": "Yohami", "userPhoto":"https://platform-lookaside.fbsbx.com/platform/instantgames/profile_pic.jpg?igpid=2256849171091124&height=256&width=256&ext=1579297531&hash=AeQli1ZUnFRRxfro" }, 
+ 
+        "BOTS" : "Shon,Nealy,Candy,Woolridge,Armando,Vito,Amalia,Driggs,Reuben,Bredeson,Bryan,Sterner,Jess,Kaul,Iluminada,Rizzo,Kenton,Fischer,Myrtis,Mcmurtry,Corrinne,Crail,Genevie,Renninger,Corie,Hee,Bonita,Chitty,Freddie,Karg,Liz,Bucko,Leandra,Garst,Marlen,Braithwaite,Johna,Maffucci,Cherelle,Jutras,Lean,Spiller,Claude,Mullaney,Keila,Crowner,Xuan,Schermerhorn,Darell,Filmore,Velma,Trotman,Dudley,Haltom,Hyun,Cargle,Nicholas,Twigg,Alden,Moates,Kory,Ikner,Connie,Munez,Delta,Bibeau,Charmaine,Nellis,Sabina,Casas,Maris,Mcnulty,Mao,Benes,Sammie,Lamprecht,Lory,Begay,Goldie,Sumlin,Allena,Banh,Winfred,Angel,Sierra,Margolis,Anjanette,Scholten,Chung,Mayne,Xavier,Cybulski,Miguelina,Bown,Roseanna,Forbis,Tula,Danos,Lacie,Bough,Marlana,Zaremba,Lemuel,Root,Hanna,Whitelow,Tamar,Osman,Luther,Fix,Zona,Redman,Bari,Blosser,Tiffaney,Landsman,Belkis,Leland,Lashawna,Pappalardo,Deidre,Cyrus,Sigrid,Lesane,Stephaine,Cripps,Lavone,Russell,Dinah,Sobieski,Kym,Matlock,Wesley,Carlton,Pedro,Wentzell,Leighann,Gaymon,Leah,Vitela,Shila,Burgio,Zenia,Ament,Han,Edling,Digna,Rodrigue,Alphonso,Meany,Denyse,Grass,Isabelle,Galvan,Lakesha,Mcfadin,Christine,Beggs,Ida,Ridder,Lottie,Ritchey,Lady,Mccorkle,Mistie,Verdun,Dahlia,Stagg,Aiko,Longenecker,Joselyn,Magda,Noella,Klassen,Vena,Basye,Nakesha,Wohlers,Martine,Kiser,Dino,Robbs,Boyce,Pinkerton,Suzanne,Maggard,Kyra,Montesinos,Karole,Gold,Savanna,Talmadge,Martha,Ranger,Adriane,Mazzariello,Alice,Coleman,Shaunta,Vallecillo"
+    },
+        
+    "IMAGES":{ 
+        
+        "Logo"       : "CATS_Logo",
+        "Attack"     : "CATS_Attack",
+        "Heist"      : "CATS_Heist",
+        "Gift"       : "CATS_Gift",
+        "Lootbox"    : "https://nakama.bulletville.com:9998/Coin_Cats_Notifications_FreeCoins_Safe.png"   
+    },
+        
+    "ADS":[
+        
+        { "label":"Interstitial", "id":"288680585313897_311518493030106", "isRewarded": 0 },
+        { "label":"RVMoreCoins", "id":"288680585313897_311520409696581", "isRewarded": 1 } 
+    ],
+        
+    "ADS_DISABLE":[
+        
+        { "label":"Interstitial", "id":"288680585313897_311518493030106", "isRewarded": 0 },
+        { "label":"RVContinue", "id":"288680585313897_311520296363259", "isRewarded": 1 },
+        { "label":"RVMoreCoins", "id":"288680585313897_311520409696581", "isRewarded": 1 },
+        { "label":"RVGiftBox", "id":"288680585313897_311520559696566", "isRewarded": 1 },
+        { "label":"RVCoinMultiplier", "id":"288680585313897_355822051933083", "isRewarded": 1 }
+    ],
+
+    "NAV":[
+ 
+        { "id":"Badges", "title":"BADGES", "symbol":"Sonic_NAV_Badges" },
+        { "id":"Home", "title":"PLAY", "symbol":"Sonic_NAV_Home" },
+        { "id":"Ranks", "title":"RANKS", "symbol":"Sonic_NAV_Ranks" }
+    ],
+ 
+ 
+    "TROPHIES":[
+ 
+     ],
+        
+    "SHOP":[
+    ],
+    
+    "TROPHIES":[
+        
+        { "id":"trp_1", "varName":"maxSonic", "max":1, "description":"Achievement_1", "symbol":"Badge_1" },
+        { "id":"trp_2", "varName":"maxAmy", "max":1, "description":"Achievement_2", "symbol":"Badge_2" },
+        { "id":"trp_3", "varName":"maxLaps", "max":3, "description":"Achievement_3", "symbol":"Badge_3" },
+        { "id":"trp_4", "varName":"maxRings", "max":25, "description":"Achievement_4", "symbol":"Badge_4" },
+        { "id":"trp_5", "varName":"maxJumps", "max":25, "description":"Achievement_5", "symbol":"Badge_5" },
+        { "id":"trp_6", "varName":"maxRings", "max":50, "description":"Achievement_6", "symbol":"Badge_6" },
+        { "id":"trp_7", "varName":"maxLaps", "max":50, "description":"Achievement_7", "symbol":"Badge_7" },
+        { "id":"trp_8", "varName":"maxJumps", "max":50, "description":"Achievement_8", "symbol":"Badge_8" },
+        { "id":"trp_9", "varName":"maxRings", "max":150, "description":"Achievement_9", "symbol":"Badge_9" },
+        { "id":"trp_10","varName":"maxJumps", "max":150, "description":"Achievement_10", "symbol":"Badge_10" },
+        { "id":"trp_11", "varName":"maxRings", "max":500, "description":"Achievement_11", "symbol":"Badge_11" },
+        { "id":"trp_12", "varName":"maxLaps", "max":250, "description":"Achievement_12", "symbol":"Badge_12" },
+        { "id":"trp_13", "varName":"maxJumps", "max":250, "description":"Achievement_13", "symbol":"Badge_13" },
+        { "id":"trp_14", "varName":"maxRaceLaps", "max":10, "description":"Achievement_14", "symbol":"Badge_14" },
+        { "id":"trp_15", "varName":"maxJumps", "max":500, "description":"Achievement_15", "symbol":"Badge_15" },
+        { "id":"trp_16", "varName":"maxRaceLaps", "max":25, "description":"Achievement_16", "symbol":"Badge_16" },
+        { "id":"trp_17", "varName":"maxJumps", "max":1500, "description":"Achievement_17", "symbol":"Badge_17" },
+        { "id":"trp_18", "varName":"maxLaps", "max":500, "description":"Achievement_18", "symbol":"Badge_18" },
+        { "id":"trp_19", "varName":"maxRings", "max":5000, "description":"Achievement_19", "symbol":"Badge_19" },
+        { "id":"trp_20", "varName":"maxRings", "max":25000, "description":"Achievement_20", "symbol":"Badge_20" },
+        { "id":"trp_22", "varName":"maxJumps", "max":3000, "description":"Achievement_22", "symbol":"Badge_22" },
+        { "id":"trp_24", "varName":"maxBadges", "max":21, "description":"Achievement_24", "symbol":"Badge_24" }  
+    ],
+ 
+         
+    "PROFILE":[
+        
+        { "id":"userLevel", "title":"User Level", "symbol":"StarBlue" },
+        { "id":"maxRings", "title":"Coins earned", "symbol":"Coin" },
+        { "id":"maxCash", "title":"Cash earned", "symbol":"Cash" },
+        { "id":"maxSpins", "title":"Total Spins", "symbol":"GUI_Cat" }, 
+        { "id":"maxBuild", "title":"Total Builds", "symbol":"GUI_Buy" }, 
+        { "id":"maxHeists", "title":"Heists", "symbol":"Heist" }, 
+        { "id":"maxAttacks", "title":"Attacks", "symbol":"Attack" },
+        { "id":"totalDefend", "title":"Defends", "symbol":"Shield" },
+        { "id":"totalRepairs", "title":"Repairs", "symbol":"Hose" }, 
+        { "id":"totalPets", "title":"Pets unlocked", "symbol":"Egg" }, 
+        { "id":"totalMaps", "title":"Towns unlocked", "symbol":"GUI_City" } 
+     ],
+        
+     "APPSTORES":
+     { 
+        "de":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo",
+            "Amazon":"https://www.amazon.de/dp/B084JMRN4H"
+         },
+ 
+         "en":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo",
+            "Amazon":"https://www.amazon.com/dp/B084JMRN4H"
+         },
+ 
+         "es":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo",
+            "Amazon":"https://www.amazon.es/dp/B084JMRN4H"
+         },
+ 
+         "fr":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo",
+            "Amazon":"https://www.amazon.fr/dp/B084JMRN4H"
+         },
+ 
+         "hi":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo",
+            "Amazon":"https://www.amazon.com/dp/B084JMRN4H"
+         },
+         "it":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo",
+            "Amazon":"https://www.amazon.it/dp/B084JMRN4H"
+         },
+ 
+         "ja":{
+            "Apple":"https://itunes.apple.com/app/id1480644756",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.SonicAtTokyo2020",
+            "Amazon":"https://www.amazon.co.jp/dp/B084JMRN4H"
+         },
+       
+         "ko":{
+            "Apple":"https://itunes.apple.com/app/id1480644756",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.SonicAtTokyo2020" 
+         },
+ 
+         "nl":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo" 
+         },
+
+         "pt":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Amazon":"https://www.amazon.com.br/dp/B084JMRN4H",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo"
+         },
+ 
+        "ru":{
+            "Apple":"https://itunes.apple.com/app/id1484836043",
+            "Google":"https://play.google.com/store/apps/details?id=com.sega.tokyo" 
+         },
+ 
+         "zh":{
+            "Apple":"https://apps.apple.com/app/id1484439245",
+            "Google":"https://sonicolympic.nvsgames.cn/" 
+         }    
+  
+
+     }   
+        
+ 
+}
