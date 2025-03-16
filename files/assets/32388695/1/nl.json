@@ -1,0 +1,74 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "nl"
+            },
+            "messages": {
+                "Play"                  : "Spelen", 
+                                
+                "SETTINGS"              : "Instellingen",
+                "LANGUAGE"              : "Taal",
+                "MINIGAME"              : "Speel nu de gratis minigame!",
+                
+                "ACHIEVEMENTS"          : "ACHIEVEMENTS", 
+                "SELECT_ATHLETE"        : "SPORTER SELECTEREN", 
+                "LEADERBOARDS"          : "KLASSEMENT", 
+                "Player"                : "Speler", 
+                "Play_on_Facebook"      : "Speel met je vrienden op Facebook!", 
+                "SPEED"                 : "SNELHEID", 
+                "PLAY_MORE_EVENTS"      : "SPEEL MEER DISCIPLINES!", 
+                "READY"                 : "KLAAR?", 
+                "FINISH"                : "KLAAR", 
+                "You"                   : "Jij", 
+                "Music"                 : "Muziek", 
+                "Sound_FX"              : "Geluidseffecten", 
+                "Reset_your_Progress"   : "Je voortgang resetten", 
+                "Reset_Question"        : "Je voortgang resetten?", 
+                "Reset"                 : "Resetten", 
+                "Get_mobile"            : "Koop de volledige mobiele versie", 
+                "Back"                  : "Terug", 
+                "Retry"                 : "Opnieuw", 
+                "Achievement_1"         : "Speel 1 race als Sonic", 
+                "Achievement_2"         : "Speel 1 race als Amy", 
+                "Achievement_3"         : "Voltooi 5 rondes", 
+                "Achievement_4"         : "Verzamel 25 Ringen", 
+                "Achievement_5"         : "Spring over 25 horden", 
+                "Achievement_6"         : "Verzamel 50 Ringen", 
+                "Achievement_7"         : "Voltooi 50 rondes", 
+                "Achievement_8"         : "Spring over 50 horden", 
+                "Achievement_9"         : "Verzamel 150 Ringen", 
+                "Achievement_10"        : "Spring over 150 horden", 
+                "Achievement_11"        : "Verzamel 500 Ringen", 
+                "Achievement_12"        : "Voltooi 250 rondes", 
+                "Achievement_13"        : "Spring over 250 horden", 
+                "Achievement_14"        : "Ren 10 rondes in 1 race", 
+                "Achievement_15"        : "Spring over 500 horden", 
+                "Achievement_16"        : "Ren 25 rondes in 1 race", 
+                "Achievement_17"        : "Spring over 1500 horden", 
+                "Achievement_18"        : "Voltooi 500 rondes", 
+                "Achievement_19"        : "Verzamel 5000 Ringen", 
+                "Achievement_20"        : "Verzamel 25.000 Ringen", 
+                "Achievement_21"        : "Ren 50 rondes in 1 race", 
+                "Achievement_22"        : "Spring over 3000 horden", 
+                "Achievement_23"        : "Voltooi 5000 rondes", 
+                "Achievement_24"        : "Win alle Badges", 
+                "Discover_more"         : "Ontdek meer games om te spelen op: olympicvideogames.com",
+                "BelowVideo"            : "Geniet van TOTAAL NIEUWE disciplines, minigames en nog veel meer! Download nu Sonic op de Olympische Spelen: Tokio 2020!"   
+            }
+        }
+    ]
+}
+ 
+ 
+
+
+
+
+
+
+
+
