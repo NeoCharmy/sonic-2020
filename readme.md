@@ -1,7 +1,7 @@
 This is the OFFICIAL 3D HTML5 demo/mini game of sonic at the olympic games (2020) which I've revived for web browsers
 
 [PLAY NOW](https://neocharmy.github.io/sonic-2020/)
-
+ 
 
 - where was it before?
 
@@ -27,7 +27,8 @@ it was a mobile game back in 2020 with only sonic characters, along with the swi
 so no one will have to download 1GB for flash point to play this, & of course, it's playable on any device since it's a web game, & most importantly, 
 I couldn't find A SINGLE VIDEO OF THIS DEMO IN YOUTUBE 
 
+ 
 RIP sonic & mario olympic series...or...mario & sonic
 whatever
 
-a little revived project by a fan, for fans
+this is just a little revived project by a fan, for fans
