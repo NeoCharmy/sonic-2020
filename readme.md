@@ -6,3 +6,5 @@ this demo/mini game was no longer on crazygames.com so I did this
 
 RIP sonic & mario olympic series...or...mario & sonic
 whatever
+
+a little revived project by a fan, for fans
