@@ -25,7 +25,7 @@ it was a mobile game back in 2020 with only sonic characters, along with the swi
 
 ## why did I do this?
 
-so no one will have to download 1GB for flash point to play this, & of course, it's playable on any device since it's a web game, & also it's becoming a lost media now man, I couldn't find a sing;e video about thin on youtube
+so no one will have to download 1GB for flash point to play this, & of course, it's playable on any device since it's a web game, & also it's becoming a lost media now man, I couldn't find a single video about this on youtube
 
 ## how to get full version now?
 google it. 
