@@ -1,7 +1,7 @@
 
 ![photo_2025-03-18_17-20-44](https://github.com/user-attachments/assets/bf932d66-acb2-40be-ae72-68a5627e11b6)
 
-This is the OFFICIAL 3D HTML5 demo/mini game of sonic at the olympic games (2020) which I've revived for web browsers
+This is the OFFICIAL 3D HTML5 demo/mini game of sonic at the olympic games (2020) which I've revived here
 
 [PLAY NOW](https://neocharmy.github.io/sonic-2020/)
 
