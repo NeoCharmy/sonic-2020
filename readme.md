@@ -22,8 +22,7 @@ it was a mobile game back in 2020 with only sonic characters, along with the swi
 
 ## why did I do this?
 
-so no one will have to download 1GB for flash point to play this, & of course, it's playable on any device since it's a web game, & most importantly, 
-I couldn't find A SINGLE VIDEO OF THIS DEMO IN YOUTUBE 
+so no one will have to download 1GB for flash point to play this, & of course, it's playable on any device since it's a web game, & also it's becoming a lost media now man, I couldn't find a sing;e video about thin on youtube
 
  
 RIP sonic & mario olympic series...or...mario & sonic
