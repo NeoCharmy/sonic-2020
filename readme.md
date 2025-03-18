@@ -18,7 +18,7 @@ from [flash point](https://flashpointarchive.org/downloads) of course, the only 
 
 ## was it free? 
 
-sure the demo was 
+sure this demo/mini game was 
 
 ## what even was the original game?
 
