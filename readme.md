@@ -5,7 +5,7 @@ This is the OFFICIAL 3D HTML5 demo/mini game of sonic at the olympic games (2020
 
 [PLAY NOW](https://neocharmy.github.io/sonic-2020/)
 
- [first rule of sonic games: the more you hold jump, the higher you go up]
+ [first rule of sonic & most platformer games: the more you hold jump, the higher you go up]
 
 ## where was it before?
 only on crazygames.com
