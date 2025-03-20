@@ -35,3 +35,6 @@ RIP sonic & mario olympic series...or...mario & sonic
 whatever
 
 this is just a little revived project by a fan, for fans
+
+## subscribe to mr. sujano
+[SUBSCRIBE TO MR. SUJANO RIGHT NOW.](https://youtu.be/mtKw0k7pAsk?si=lsHDuebfIicqTtND)
