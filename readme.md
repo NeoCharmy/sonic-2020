@@ -36,5 +36,11 @@ whatever
 
 this is just a little revived project by a fan, for fans
 
+## troubleshoot
+for some reason, you can't keep your progress on phone, unless you change the view to desktop site. 
+idk what caused this so I can't fix it sadly.
+
+as long as you don't clear you browser data, your achievements will be fine
+
 ## subscribe to mr. sujano
 [SUBSCRIBE TO MR. SUJANO RIGHT NOW.](https://youtu.be/mtKw0k7pAsk?si=lsHDuebfIicqTtND)
