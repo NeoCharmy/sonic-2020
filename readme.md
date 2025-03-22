@@ -36,7 +36,7 @@ whatever
 
 this is just a little revived project by a fan, for fans
 
-as long as you don't clear you browser data, your achievements will be fine
+(also as long as you don't clear you browser data, your achievements will be fine)
 
 ## subscribe to mr. sujano
 [SUBSCRIBE TO MR. SUJANO RIGHT NOW.](https://youtu.be/mtKw0k7pAsk?si=lsHDuebfIicqTtND)
