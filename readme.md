@@ -9,7 +9,7 @@ This is the OFFICIAL 3D HTML5 demo/mini game of sonic at the olympic games (2020
 
 ## where was it before?
 only on crazygames.com
-& they removed it, just as silent as they'd release it.
+& they removed it, as silent as they'd release it.
 only this [news page](https://developer.crazygames.com/blog/play-sonic-at-the-olympic-game)
  was left on this site
 
@@ -20,13 +20,17 @@ from [flash point](https://flashpointarchive.org/downloads) of course, the only 
 
 sure this demo/mini game was 
 
+## save support?
+
+Sometimes your progress won't be saved on your explorer's caches & I have no idea about it
+
 ## what even was the original game?
 
 it was a mobile game back in 2020 with only sonic characters, along with the switch game, mario & sonic at the olympic games tokyo 2020 & they also removed this from everywhere a while back
 
 ## why did I do this?
 
-so no one will have to download about 1GB for flash point to play this, & of course, it's playable on any device since it's a web game, & also it's becoming a lost media now man, I couldn't find a single video about this mini game/demo on youtube
+so no one will have to download about 1GB for flash point to play this, & of course, it's playable on any device since it's a web game, & also it's becoming a lost media now. Honestly I couldn't find a single video about this mini game/demo on youtube
 
 ## how to get full version now?
 google it. 
@@ -38,3 +42,4 @@ this is just a little revived project by a fan, for fans
 
 ## subscribe to mr. sujano
 [SUBSCRIBE TO MR. SUJANO RIGHT NOW.](https://youtu.be/mtKw0k7pAsk?si=lsHDuebfIicqTtND)
+
