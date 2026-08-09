@@ -26,11 +26,11 @@ Sometimes your progress won't be saved on your explorer's caches & sadly I have 
 
 ## what even was the original game?
 
-it was a mobile game back in 2020 with only sonic characters, along with the switch game, mario & sonic at the olympic games tokyo 2020 & they also removed this from everywhere a while back
+It was a mobile game, which was released back in 2020 with only sonic characters, along with the switch game, mario & sonic at the olympic games tokyo 2020. sadly they also removed the full mobile version from everywhere a while back.
 
 ## why did I do this?
 
-so no one will have to download about 1GB for flash point to play this, & of course, It's playable on any device once more, since it's a web game, & also it's becoming a lost media now. Honestly I couldn't find a single video about this mini game\demo on youtube
+so no one will have to download about 1GB for flash point to play this, & of course, It's playable on any device once more, because it's on web again. & also it's becoming a lost media now. seriously, I couldn't even find a single video about this mini game\demo on youtube.
 
 ## how to get full version now?
 google it. 
