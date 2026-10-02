@@ -30,7 +30,7 @@ It was a mobile game, which was released back in 2020 with only sonic characters
 
 ## why did I do this?
 
-so no one will have to download about 1GB for flash point to play this, & of course, It's playable on any device once more, because it's on web again. & also it's becoming a lost media now. seriously, I couldn't even find a single video about this mini game\demo on youtube.
+so no one will have to download about 1GB for flash point to play this, & of course, It's playable on any device once more, because it's on web again. & also it's becoming a lost media now. seriously, I couldn't even find a singular video about this mini game\demo on youtube.
 
 ## how to get full version now?
 google it. 
