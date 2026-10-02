@@ -26,7 +26,7 @@ Sometimes your progress won't be saved on your explorer's caches & sadly I have 
 
 ## what even was the original game?
 
-It was a mobile game, which was released back in 2020 with only sonic characters, along with the switch game, mario & sonic at the olympic games tokyo 2020. sadly they also removed the full mobile version from everywhere a while back.
+It was a mobile game, which was released back in 2020 with only sonic characters, along with the switch game, mario & sonic at the olympic games tokyo 2020. sadly they've also removed the full mobile version from everywhere a while back.
 
 ## why did I do this?
 
