@@ -32,7 +32,7 @@ It was a mobile game, which was released back in 2020 with only sonic characters
 
 so no one will have to download about 1GB for flash point to play this, & of course, It's playable on any device once more, because it's on web again. & also it's becoming a lost media now. seriously, I couldn't even find a singular video about this mini game\demo on youtube.
 
-## how to get full version now?
+## how to get the full android version now?
 google it. the full pre-unlocked version is already out there somewhere.  
  
 RIP sonic & mario olympic series...or...mario & sonic
