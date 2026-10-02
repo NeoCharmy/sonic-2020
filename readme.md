@@ -38,4 +38,4 @@ google it. the full pre-unlocked version is already out there somewhere.
 RIP sonic & mario olympic series...or...mario & sonic
 whatever
 
-this is just a little revived project by a fan, for fans
+this is just a little revived project by a fan, for fans.
